@@ -1,7 +1,7 @@
 # hello-world
 My first rep on Git
 
-Hi for everyone who is brave to appear hear! ^_^
+Hi for everyone who is brave to appear here! ^_^
 
 This is the first changes to be sure this Gitstuff is working well! 
 
